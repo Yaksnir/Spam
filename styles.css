@@ -24,6 +24,11 @@ nav {
     font-size: 30px;
 }
 
+.box{
+    height: 20px;
+    background-color: red;
+}
+
 a {
     color: rgb(57, 55, 58);
     font-family: fantasy;
@@ -117,8 +122,12 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
+.artists{
+    
+}
+.artists a{
 
-
+}
 .testing {
     height: 400px;
     width: cover;
@@ -139,10 +148,26 @@ p {
 }
 .artists img{
     height: 250px;
-    margin-right: auto;
+    margin: 50px;
+
     
 }
-
+.artistsect{
+   display: flex;
+   background-color: orange;
+  
+}
+.arti{
+    margin-top: 100px;
+}
+.arti audio {
+    margin-left: -20px
+    
+}
+.arti2{
+    margin-top: 100px;
+    margin-left: 20px;
+}
 
 .aboutus p {
 background-color: #3d1a47;
